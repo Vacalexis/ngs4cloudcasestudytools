@@ -17,6 +17,7 @@
       "command": "/Split/split.sh",
       "description": "Split",
       "priority": 1,
+      "argumentsComposer": "Split",
       "arguments": [
         {
           "name": "-l",
