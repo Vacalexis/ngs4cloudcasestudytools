@@ -24,28 +24,28 @@
           "argumentType": "int",
           "isRequired": "false",
           "description": "Number of lines for each partition.",
-          "argumentsComposer": "nameValuesSeparatedBySpace"
+          "argumentsComposer": "name_values_separated_by_space"
         },
         {
           "name": "-b",
           "argumentType": "int",
           "isRequired": "false",
           "description": "Number of bytes per output file.",
-          "argumentsComposer": "nameValuesSeparatedBySpace"
+          "argumentsComposer": "name_values_separated_by_space"
         },
         {
           "name": "inputName",
           "argumentType": "file",
           "isRequired": "true",
           "description": "File that will be split.",
-          "argumentsComposer": "valuesSeparatedBySpace"
+          "argumentsComposer": "values_separated_by_space"
         },
         {
           "name": "partitions",
           "argumentType": "int",
           "isRequired": "true",
           "description": "Number of partitions created.",
-          "argumentsComposer": "valuesSeparatedBySpace"
+          "argumentsComposer": "values_separated_by_space"
         }
       ],
       "outputs": [
