@@ -6,6 +6,7 @@
 		"Listing",
 		"Picard",
 		"Samtools",
+		"FSplit",
 		"Split",
 		"snp-pipeline",
 		"Trimmomatic",
